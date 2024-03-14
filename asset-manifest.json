@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a86b5dad.css",
+    "main.js": "/static/js/main.8c78927c.js",
+    "static/media/about.jpg": "/static/media/about.4da0488ca8869692776d.jpg",
+    "static/media/profile.jpg": "/static/media/profile.da323e2f5cf4bc4f259b.jpg",
+    "static/media/project1.png": "/static/media/project1.bb698a08d96ffba116f4.png",
+    "static/media/project2.png": "/static/media/project2.979871faa22cf94420f8.png",
+    "static/media/project3.png": "/static/media/project3.741b5fecb3bfa79c0a5a.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.bf207e1501b3e3a89339.png",
+    "static/media/testimonial3.png": "/static/media/testimonial3.1badb7321889e9b9ceaf.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.58008a565ab6f0db4d93.png",
+    "static/media/Lemos-Cv.pdf": "/static/media/Lemos-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/index.html",
+    "main.a86b5dad.css.map": "/static/css/main.a86b5dad.css.map",
+    "main.8c78927c.js.map": "/static/js/main.8c78927c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86b5dad.css",
+    "static/js/main.8c78927c.js"
+  ]
+}
