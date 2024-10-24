@@ -1,4 +1,4 @@
-# ![Portfolio](https://github.com/luisandrelemos/luisandrelemos.github.io/blob/main/images/Preview.png)
+# ![Portfolio](https://github.com/luisandrelemos/luisandrelemos.github.io/blob/gh-pages/images/Preview.png)
 # My Personal Portfolio 🪪
 <table>
 <tr>
