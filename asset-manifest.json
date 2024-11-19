@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.730660ff.css",
-    "main.js": "/static/js/main.d591ae04.js",
-    "static/media/Lemos-Cv.pdf": "/static/media/Lemos-Cv.a9b6a4778b7be10145a9.pdf",
+    "main.js": "/static/js/main.c8de5065.js",
+    "static/media/project5.png": "/static/media/project5.8389d01baa7aad2d5ec7.png",
+    "static/media/Lemos-Cv.pdf": "/static/media/Lemos-Cv.74f957fefd893cd948d8.pdf",
     "static/media/about.jpg": "/static/media/about.4da0488ca8869692776d.jpg",
     "static/media/profile.jpg": "/static/media/profile.da323e2f5cf4bc4f259b.jpg",
     "static/media/project4.jpg": "/static/media/project4.c20d5ecdb25f0964fbd3.jpg",
@@ -11,10 +12,10 @@
     "static/media/project3.png": "/static/media/project3.741b5fecb3bfa79c0a5a.png",
     "index.html": "/index.html",
     "main.730660ff.css.map": "/static/css/main.730660ff.css.map",
-    "main.d591ae04.js.map": "/static/js/main.d591ae04.js.map"
+    "main.c8de5065.js.map": "/static/js/main.c8de5065.js.map"
   },
   "entrypoints": [
     "static/css/main.730660ff.css",
-    "static/js/main.d591ae04.js"
+    "static/js/main.c8de5065.js"
   ]
 }
