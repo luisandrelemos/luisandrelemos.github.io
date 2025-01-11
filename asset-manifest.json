@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.730660ff.css",
-    "main.js": "/static/js/main.c8de5065.js",
+    "main.css": "/static/css/main.c6919025.css",
+    "main.js": "/static/js/main.791ebce9.js",
     "static/media/project5.png": "/static/media/project5.8389d01baa7aad2d5ec7.png",
+    "static/media/profile.jpg": "/static/media/profile.33c630fe72ce1e626478.jpg",
     "static/media/Lemos-Cv.pdf": "/static/media/Lemos-Cv.74f957fefd893cd948d8.pdf",
     "static/media/about.jpg": "/static/media/about.4da0488ca8869692776d.jpg",
-    "static/media/profile.jpg": "/static/media/profile.da323e2f5cf4bc4f259b.jpg",
+    "static/media/project6.png": "/static/media/project6.669d1ed5ed4ecca25ae2.png",
     "static/media/project4.jpg": "/static/media/project4.c20d5ecdb25f0964fbd3.jpg",
     "static/media/project1.png": "/static/media/project1.bb698a08d96ffba116f4.png",
     "static/media/project2.png": "/static/media/project2.979871faa22cf94420f8.png",
     "static/media/project3.png": "/static/media/project3.741b5fecb3bfa79c0a5a.png",
     "index.html": "/index.html",
-    "main.730660ff.css.map": "/static/css/main.730660ff.css.map",
-    "main.c8de5065.js.map": "/static/js/main.c8de5065.js.map"
+    "main.c6919025.css.map": "/static/css/main.c6919025.css.map",
+    "main.791ebce9.js.map": "/static/js/main.791ebce9.js.map"
   },
   "entrypoints": [
-    "static/css/main.730660ff.css",
-    "static/js/main.c8de5065.js"
+    "static/css/main.c6919025.css",
+    "static/js/main.791ebce9.js"
   ]
 }
