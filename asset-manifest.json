@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd30f3b2.css",
-    "main.js": "/static/js/main.a754da26.js",
+    "main.css": "/static/css/main.0c447aef.css",
+    "main.js": "/static/js/main.d69aa799.js",
     "static/media/project5.png": "/static/media/project5.8389d01baa7aad2d5ec7.png",
     "static/media/profile.jpg": "/static/media/profile.33c630fe72ce1e626478.jpg",
-    "static/media/Lemos-Cv.pdf": "/static/media/Lemos-Cv.74f957fefd893cd948d8.pdf",
     "static/media/about.jpg": "/static/media/about.4da0488ca8869692776d.jpg",
     "static/media/project6.png": "/static/media/project6.669d1ed5ed4ecca25ae2.png",
     "static/media/project4.jpg": "/static/media/project4.c20d5ecdb25f0964fbd3.jpg",
     "static/media/project1.png": "/static/media/project1.bb698a08d96ffba116f4.png",
     "static/media/project2.png": "/static/media/project2.979871faa22cf94420f8.png",
     "static/media/project3.png": "/static/media/project3.741b5fecb3bfa79c0a5a.png",
+    "static/media/Luis-Lemos-Resume-CV.pdf": "/static/media/Luis-Lemos-Resume-CV.3312e007bc3b10340b68.pdf",
     "index.html": "/index.html",
-    "main.dd30f3b2.css.map": "/static/css/main.dd30f3b2.css.map",
-    "main.a754da26.js.map": "/static/js/main.a754da26.js.map"
+    "main.0c447aef.css.map": "/static/css/main.0c447aef.css.map",
+    "main.d69aa799.js.map": "/static/js/main.d69aa799.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd30f3b2.css",
-    "static/js/main.a754da26.js"
+    "static/css/main.0c447aef.css",
+    "static/js/main.d69aa799.js"
   ]
 }
